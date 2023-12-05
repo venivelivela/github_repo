@@ -1,4 +1,4 @@
 resource "ec2" "ec2"
 {
-iam = aswdcc
+iam = aswdccd
 }
